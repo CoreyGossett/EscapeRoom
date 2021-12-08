@@ -1,0 +1,6 @@
+D:\sd116\Goldbadge\EscapeRoom\EscapeRoom\bin\Debug\EscapeRoom.dll
+D:\sd116\Goldbadge\EscapeRoom\EscapeRoom\bin\Debug\EscapeRoom.pdb
+D:\sd116\Goldbadge\EscapeRoom\EscapeRoom\obj\Debug\Escape.POCO.csproj.AssemblyReference.cache
+D:\sd116\Goldbadge\EscapeRoom\EscapeRoom\obj\Debug\Escape.POCO.csproj.CoreCompileInputs.cache
+D:\sd116\Goldbadge\EscapeRoom\EscapeRoom\obj\Debug\EscapeRoom.dll
+D:\sd116\Goldbadge\EscapeRoom\EscapeRoom\obj\Debug\EscapeRoom.pdb

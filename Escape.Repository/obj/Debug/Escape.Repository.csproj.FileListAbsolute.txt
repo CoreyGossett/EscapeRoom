@@ -1,0 +1,9 @@
+D:\sd116\Goldbadge\EscapeRoom\Escape.Repository\bin\Debug\Escape.Repository.dll
+D:\sd116\Goldbadge\EscapeRoom\Escape.Repository\bin\Debug\Escape.Repository.pdb
+D:\sd116\Goldbadge\EscapeRoom\Escape.Repository\bin\Debug\EscapeRoom.dll
+D:\sd116\Goldbadge\EscapeRoom\Escape.Repository\bin\Debug\EscapeRoom.pdb
+D:\sd116\Goldbadge\EscapeRoom\Escape.Repository\obj\Debug\Escape.Repository.csproj.AssemblyReference.cache
+D:\sd116\Goldbadge\EscapeRoom\Escape.Repository\obj\Debug\Escape.Repository.csproj.CoreCompileInputs.cache
+D:\sd116\Goldbadge\EscapeRoom\Escape.Repository\obj\Debug\Escape.Repository.csproj.CopyComplete
+D:\sd116\Goldbadge\EscapeRoom\Escape.Repository\obj\Debug\Escape.Repository.dll
+D:\sd116\Goldbadge\EscapeRoom\Escape.Repository\obj\Debug\Escape.Repository.pdb

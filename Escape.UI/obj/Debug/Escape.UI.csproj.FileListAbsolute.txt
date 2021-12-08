@@ -1,0 +1,12 @@
+D:\sd116\Goldbadge\EscapeRoom\Escape.UI\bin\Debug\Escape.UI.exe.config
+D:\sd116\Goldbadge\EscapeRoom\Escape.UI\bin\Debug\Escape.UI.exe
+D:\sd116\Goldbadge\EscapeRoom\Escape.UI\bin\Debug\Escape.UI.pdb
+D:\sd116\Goldbadge\EscapeRoom\Escape.UI\bin\Debug\Escape.Repository.dll
+D:\sd116\Goldbadge\EscapeRoom\Escape.UI\bin\Debug\EscapeRoom.dll
+D:\sd116\Goldbadge\EscapeRoom\Escape.UI\bin\Debug\Escape.Repository.pdb
+D:\sd116\Goldbadge\EscapeRoom\Escape.UI\bin\Debug\EscapeRoom.pdb
+D:\sd116\Goldbadge\EscapeRoom\Escape.UI\obj\Debug\Escape.UI.csproj.AssemblyReference.cache
+D:\sd116\Goldbadge\EscapeRoom\Escape.UI\obj\Debug\Escape.UI.csproj.CoreCompileInputs.cache
+D:\sd116\Goldbadge\EscapeRoom\Escape.UI\obj\Debug\Escape.UI.csproj.CopyComplete
+D:\sd116\Goldbadge\EscapeRoom\Escape.UI\obj\Debug\Escape.UI.exe
+D:\sd116\Goldbadge\EscapeRoom\Escape.UI\obj\Debug\Escape.UI.pdb
