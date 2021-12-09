@@ -174,13 +174,19 @@ namespace Escape.Repository
             {
                 _playerInventory.HasOldBook = true;
                 Console.WriteLine("You picked up the Old Book! Do you want to open it? (yes/no)");
-                string userInput = Console.ReadLine();
+                string userInput = Console.ReadLine().ToLower();
                 if (userInput == "yes")
                 {
                     Console.WriteLine("You notice a picture with a little girl on it.. it seems to have some relation to the picture on the counter..");
                     TakePictureFromBook(room);
+                    return true;
                 }
-                return true;
+                else
+                {
+                    Console.WriteLine("You set the book back down on the table..");
+                    Console.ReadKey();
+                    return false;
+                }
             }
             else
             {
@@ -236,6 +242,23 @@ namespace Escape.Repository
                 Console.WriteLine("You don't know if there's a safe...");
                 return false;
             }
+        }
+
+        public bool PickUpPictureFrame()
+        {
+           if (_player.IsByCounter)
+            {
+                _playerInventory.HasPictureFrame = true;
+                Console.WriteLine("You picked up the picture frame.");
+                return true;
+            }
+
+           else
+            {
+                Console.WriteLine("You are too far from the counter, you cannot pick up picture.");
+                return false;
+            }
+            
         }
     }
 }

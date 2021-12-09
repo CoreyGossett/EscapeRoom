@@ -4,3 +4,9 @@ D:\sd116\Goldbadge\EscapeRoom\EscapeRoom\obj\Debug\Escape.POCO.csproj.AssemblyRe
 D:\sd116\Goldbadge\EscapeRoom\EscapeRoom\obj\Debug\Escape.POCO.csproj.CoreCompileInputs.cache
 D:\sd116\Goldbadge\EscapeRoom\EscapeRoom\obj\Debug\EscapeRoom.dll
 D:\sd116\Goldbadge\EscapeRoom\EscapeRoom\obj\Debug\EscapeRoom.pdb
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\EscapeRoom\bin\Debug\EscapeRoom.dll
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\EscapeRoom\bin\Debug\EscapeRoom.pdb
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\EscapeRoom\obj\Debug\Escape.POCO.csproj.AssemblyReference.cache
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\EscapeRoom\obj\Debug\Escape.POCO.csproj.CoreCompileInputs.cache
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\EscapeRoom\obj\Debug\EscapeRoom.dll
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\EscapeRoom\obj\Debug\EscapeRoom.pdb

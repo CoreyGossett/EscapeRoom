@@ -10,3 +10,15 @@ D:\sd116\Goldbadge\EscapeRoom\Escape.UI\obj\Debug\Escape.UI.csproj.CoreCompileIn
 D:\sd116\Goldbadge\EscapeRoom\Escape.UI\obj\Debug\Escape.UI.csproj.CopyComplete
 D:\sd116\Goldbadge\EscapeRoom\Escape.UI\obj\Debug\Escape.UI.exe
 D:\sd116\Goldbadge\EscapeRoom\Escape.UI\obj\Debug\Escape.UI.pdb
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.UI\obj\Debug\Escape.UI.exe
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.UI\obj\Debug\Escape.UI.pdb
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.UI\bin\Debug\Escape.UI.exe.config
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.UI\bin\Debug\Escape.UI.exe
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.UI\bin\Debug\Escape.UI.pdb
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.UI\bin\Debug\Escape.Repository.dll
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.UI\bin\Debug\EscapeRoom.dll
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.UI\bin\Debug\Escape.Repository.pdb
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.UI\bin\Debug\EscapeRoom.pdb
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.UI\obj\Debug\Escape.UI.csproj.AssemblyReference.cache
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.UI\obj\Debug\Escape.UI.csproj.CoreCompileInputs.cache
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.UI\obj\Debug\Escape.UI.csproj.CopyComplete

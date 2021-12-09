@@ -17,6 +17,7 @@ namespace EscapeRoom.POCO
         public bool HasKeyFromSafe { get; set; }
         public bool HasCombination { get; set; }
         public bool GotMilk { get; set; }
+        public bool HasPictureFrame { get; set; }
 
 
         public Inventory()

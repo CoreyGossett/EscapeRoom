@@ -7,3 +7,12 @@ D:\sd116\Goldbadge\EscapeRoom\Escape.Repository\obj\Debug\Escape.Repository.cspr
 D:\sd116\Goldbadge\EscapeRoom\Escape.Repository\obj\Debug\Escape.Repository.csproj.CopyComplete
 D:\sd116\Goldbadge\EscapeRoom\Escape.Repository\obj\Debug\Escape.Repository.dll
 D:\sd116\Goldbadge\EscapeRoom\Escape.Repository\obj\Debug\Escape.Repository.pdb
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.Repository\obj\Debug\Escape.Repository.dll
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.Repository\obj\Debug\Escape.Repository.pdb
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.Repository\bin\Debug\Escape.Repository.dll
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.Repository\bin\Debug\Escape.Repository.pdb
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.Repository\bin\Debug\EscapeRoom.dll
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.Repository\bin\Debug\EscapeRoom.pdb
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.Repository\obj\Debug\Escape.Repository.csproj.AssemblyReference.cache
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.Repository\obj\Debug\Escape.Repository.csproj.CoreCompileInputs.cache
+C:\EFA\SD116\GoldBadge\EscapeRoomWambatGame\EscapeRoom\Escape.Repository\obj\Debug\Escape.Repository.csproj.CopyComplete
